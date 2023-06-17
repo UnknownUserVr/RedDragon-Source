@@ -1,19 +1,15 @@
 # RedDragon-Source
 
+# This Project Is Archived
+Reason: This project has been broken due to a fix or patch involving the ChromiumWebBrowser Class and i am working hard to bring a new Browser with leftover refrences to this code to perfect the experience, there wil be a link later added to the prject when the new browser is finished
+
 NOTE:
 + this Project is currently in alpha, and is not for mainstream consumer use quit yet, it is still under development and is not even close to being complete, there are some underlining features that need to be implamented before we can release it to the general public as a executible and distribute the contents
 
 
 # Features Coming Soon
- + The Ability to have a fully featured context menu
- + Browwser right Click context options
- + Compatibility for older operating systems with no security risks and pre applied dlls
- + Native TitleBar Support, "Not Static and can be changed accordingly"
- + More Decritive URL, when visiting a webpage the url wil be white and some shade of gray to complament the Aero Style of windows
- + Mica support for windows forms to make the program just have that bit of extra processing behind the scenes to make it look better and more nateral
- + Pressing F11 for Fullscreen mode instead of waiting for a request also
 
-More Features coming soon
++ a fully Featured Revamp of this browser
 
 # Images
 
